@@ -99,3 +99,9 @@ nuclei -list targets.txt -ai "Identify cache poisoning by injecting payloads in 
 ```
 
 This markdown file provides structured Nuclei AI prompts categorized by security testing methodologies.
+
+
+
+
+###ALL
+https://nucleiprompts.com
